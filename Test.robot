@@ -6,8 +6,8 @@ Library    Process
 
 
 *** Test Cases ***
-call python
-    run process     python      /home/new/demo_2.py
+Google
+    Open Browser    www.google.com  chrome
 
 
 *** Keywords ***
